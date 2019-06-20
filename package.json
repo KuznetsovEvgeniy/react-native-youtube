@@ -1,6 +1,6 @@
 {
   "name": "react-native-youtube",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A <YouTube/> component for React Native.",
   "main": "main.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/inProgress-team/react-native-youtube#readme",
   "dependencies": {
-    "prop-types": "^15.5.0"
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "react-native": ">=0.37"
